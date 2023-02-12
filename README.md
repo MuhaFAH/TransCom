@@ -1,6 +1,6 @@
-RUSSIAN LANGUAGE:
+# TRANSCOM
 
-TRANSCOM
+RUSSIAN LANGUAGE:
 
 Автор: Мухаммед Абдуллоев
 
@@ -31,8 +31,6 @@ TRANSCOM
 
 ENGLISH LANGUAGE:
 
-TRANSCOM
-
 Author: Muhammed Abdulloev
 
 The purpose of the program (idea): assistance in dispatches and accounting of transportation, so that it is easier to determine the time of return of the vehicle, monitor the customer base and have information about the history of transportation
@@ -59,3 +57,8 @@ On the "Clients" tab there is also a button "Managing the customer base", which 
 All information in the program is updated in real time. Therefore, the introduction of new information will be immediately added to the corresponding tables.
 
 Libraries required to run: PyQt5
+
+![5](https://user-images.githubusercontent.com/118553656/218314347-1af5c191-39d5-4cd5-864b-78062bd0af71.jpg)
+![2](https://user-images.githubusercontent.com/118553656/218314356-6517c8ab-7382-45c5-8b15-46de77f26465.png)
+![3](https://user-images.githubusercontent.com/118553656/218314360-7ac24d0d-12a1-4462-990b-96cca079e39a.png)
+![4](https://user-images.githubusercontent.com/118553656/218314361-aeda190f-b206-490c-85bf-9f0d79611a6d.png)
